@@ -11,4 +11,4 @@
 **E-ISSN**: 2583-9942 (Online)
 
 
-# The author will like to thank Dr Bhuvnesh Kumar Sharma for his skills with LaTex
+**Acknowledgement** The author will like to thank Dr Bhuvnesh Kumar Sharma for his skills with LaTex
